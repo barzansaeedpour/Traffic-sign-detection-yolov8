@@ -32,8 +32,7 @@ In this git repository a light version of the Traffic Sign Detection project is 
 
 به طور کلی، سامانه هوش مصنوعی تشخیص علائم ترافیکی به بهبود ایمنی و بهره‌وری در محیط‌های حمل و نقل عمومی و شهر هوشمند کمک می‌کند و به کاهش تصادفات و مشکلات ترافیکی می‌انجامد.
 
-# Table of content:
 
-### working on it!
+سایر فایل ها به زودی اضافه می شوند
 
 
