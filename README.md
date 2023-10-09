@@ -1,5 +1,5 @@
 # Traffic Sign Detection 
-#### Enhancing Road Safety, preparation of road maps, smart city, traffic efficienc
+#### Enhancing Road Safety, preparation of road maps, smart city, traffic efficiency
 
 
 # سامانه هوش مصنوعی تشخیص علائم ترافیکی
@@ -55,7 +55,7 @@ class names:
 | faghat-obor-az-chap-mojaz | فقط عبور از چپ مجاز | compulsory keep left | <img width="30%" src='./files/'/> |
 | faghat-obor-az-rast-mojaz | فقط عبور از راست مچاز | compulsory keep right | <img width="30%" src='./files/'/> |
 | gardesh-be-rast-mamnoe | گردش به راست ممنوع | right turn prohebited | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-100 | حداکثر سرعت مجاز 100 | speed limit 100 | <img width="30%" src='./files/'/> |
+| hadeaksar-sorat-mojaz-100 | حداکثر سرعت مجاز 100 | speed limit 100 | <img width="30%" src='./files/حداکثر سرعت 100.png'/> |
 | hadeaksar-sorat-mojaz-110 | حداکثر سرعت مجاز 110 | speed limit 110 | <img width="30%" src='./files/'/> |
 | hadeaksar-sorat-mojaz-40 | حداکثر سرعت مجاز 40 | speed limit 40 | <img width="30%" src='./files/'/> |
 | hadeaksar-sorat-mojaz-50 | حداکثر سرعت مجاز 50 | speed limit 50 | <img width="30%" src='./files/'/> |
