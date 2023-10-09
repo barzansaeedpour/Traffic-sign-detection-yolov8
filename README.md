@@ -12,9 +12,9 @@ In this git repository a light version of our Traffic Sign Detection project is 
 نمونه تشخیص (Detection sample):
 
 
-<img src='./files/prediciton.jpg'/>
+<img width= "70%" src='./files/prediciton.jpg'/>
 
-<img src='./files/output.gif'/>
+<img width= "70%" src='./files/output.gif'/>
 
 
 <br/>
@@ -44,7 +44,7 @@ The dataset has uploaded to Kaggle, and you can download it in the following add
 
 class names:
 
-| Persian | Persian | English | Image|
+| Persian | Persian | English | Image |
 |----------|----------|----------|----------|
 | avalin-pich-be-chap | اولین پیچ به چپ | first curve to the left | <img width="50%" src='./files/اولین-پیچ-به-چپ .png'/>|
 | avalin-pich-be-rast | اولین پیچ به راست | first curve to the right | <img width="50%" src='./files/اولین-پیچ-به-راست.png'/> |
