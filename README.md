@@ -1,10 +1,13 @@
 # Traffic Sign Detection 
+#### Enhancing Road Safety, preparation of road maps, smart city, traffic efficienc
+
 
 # سامانه هوش مصنوعی تشخیص علائم ترافیکی
+#### افزایش ایمنی جاده، تهیه نقشه راه، شهر هوشمند، بهره وری ترافیک
 
-در این مخزن گیت هاب، نسخه ای سبک از پروژه تشخیص علائم راهنمایی ارائه شده است.
+در این مخزن گیت هاب، نسخه ای سبک از پروژه ما برای تشخیص علائم راهنمایی ارائه شده است.
 
-In this git repository a light version of the Traffic Sign Detection project is presented.
+In this git repository a light version of our Traffic Sign Detection project is presented.
 
 نمونه تشخیص (Detection sample):
 
@@ -33,6 +36,12 @@ In this git repository a light version of the Traffic Sign Detection project is 
 به طور کلی، سامانه هوش مصنوعی تشخیص علائم ترافیکی به بهبود ایمنی و بهره‌وری در محیط‌های حمل و نقل عمومی و شهر هوشمند کمک می‌کند و به کاهش تصادفات و مشکلات ترافیکی می‌انجامد.
 
 
-سایر فایل ها به زودی اضافه می شوند
+# Dataset:
+
+You can download the dataset in the following address:
+
+
+
+# Instruciton:
 
 
