@@ -38,7 +38,29 @@ In this git repository a light version of our Traffic Sign Detection project is 
 
 # Dataset:
 
-You can download the dataset in the following address:
+The dataset has uploaded to Kaggle, and you can download it in the following address:
+
+- https://www.kaggle.com/datasets/barzansaeedpour/traffic-sign-detection
+
+class names:
+
+| Persian | Persian | English | Image|
+|----------|----------|----------|----------|
+| avalin-pich-be-chap | اولین پیچ به چپ | first curve to the left | <img width="50%" src='./files/اولین-پیچ-به-چپ .png'/>|
+| avalin-pich-be-rast | اولین پیچ به راست | first curve to the right | <img width="50%" src='./files/اولین-پیچ-به-راست.png'/> |
+| dast-andaz | دست انداز | bump | <img width="50%" src='./files/دست-انداز.png'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
+|  |  |  | <img width="50%" src='./files/'/> |
 
 
 
