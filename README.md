@@ -125,20 +125,42 @@ class names:
 
 # Instruciton:
 
+1- virtual environment setup (windows):
 
-1- Download and unzip the dataset
+python version: 3.10.0
 
-2- Install pytorch CUDA:
+```
+    py -3.10 -m venv env
+```
+
+```
+    env\Scripts\activate
+```
+
+2- install requirements
+
+```
+    pip install -r requirements.txt
+```
+
+3- Download and unzip the dataset
+
+- https://www.kaggle.com/datasets/barzansaeedpour/traffic-sign-detection
+
+
+4- Install pytorch CUDA:
 
 - https://pytorch.org/
 
-3- Train yolov8 on the train data:
+
+
+5- Train yolov8 on the train data:
 
 ```
     yolo task=detect mode=train epochs=100 data=data_custom.yaml model=yolov8m.pt imgsz=300 batch=2
 ```
 
-4- Test the trained model 
+6- Test the trained model 
 
 ```
     yolo task=detect mode=predict model=yolov8m_custom.pt show=False conf=0.4 source=val/images
