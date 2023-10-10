@@ -38,7 +38,7 @@ In this git repository a light version of our Traffic Sign Detection project is 
 
 # Dataset:
 
-The dataset has uploaded to Kaggle, and you can download it in the following address:
+The dataset has been uploaded to Kaggle, and you can download it in the following address:
 
 - https://www.kaggle.com/datasets/barzansaeedpour/traffic-sign-detection
 
@@ -136,4 +136,10 @@ class names:
 
 ```
     yolo task=detect mode=train epochs=100 data=data_custom.yaml model=yolov8m.pt imgsz=300 batch=2
+```
+
+4- Test the trained model 
+
+```
+    yolo task=detect mode=predict model=yolov8m_custom.pt show=False conf=0.4 source=val/images
 ```
