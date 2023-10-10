@@ -147,6 +147,7 @@ python version: 3.10.0
 
 - https://www.kaggle.com/datasets/barzansaeedpour/traffic-sign-detection
 
+Notice that you should change the train and validation directory in ```data_custom.yaml``` file.
 
 4- Install pytorch CUDA:
 
@@ -163,5 +164,5 @@ python version: 3.10.0
 6- Test the trained model 
 
 ```
-    yolo task=detect mode=predict model=yolov8m_custom.pt show=False conf=0.4 source=val/images
+    yolo task=detect mode=predict model=yolov8m_custom.pt show=False conf=0.4 source=val/images/
 ```
