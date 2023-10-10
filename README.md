@@ -12,14 +12,14 @@ In this git repository a light version of our Traffic Sign Detection project is 
 نمونه تشخیص (Detection sample):
 
 
-<img width= "70%" src='./files/prediciton.jpg'/>
+<img width= "70%" src='./files/prediciton2.jpg'/>
 
 <img width= "70%" src='./files/output.gif'/>
 
 
 <br/>
 
-کاربرد این سامانه:
+کاربردهای این سامانه:
 
 سامانه هوش مصنوعی تشخیص علائم ترافیکی به عنوان یکی از کاربردهای مهم هوش مصنوعی در حوزه مهندسی ترافیک و راهنمایی و رانندگی دارای مزایای زیادی است. کاربردها و مزایا اصلی این سامانه به شرح زیر هستند:
 
@@ -43,6 +43,45 @@ The dataset has uploaded to Kaggle, and you can download it in the following add
 - https://www.kaggle.com/datasets/barzansaeedpour/traffic-sign-detection
 
 class names:
+
+<!-- <div class="table-responsive">
+  <table>
+    <thead>
+      <tr>
+        <th>Label</th>
+        <th>Persian</th>
+        <th>English</th>
+        <th>Image</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>avalin-pich-be-chap</td>
+        <td>اولین پیچ به چپ </td>
+        <td>first curve to the left</td>
+        <td><img width="30%" src='./files/اولین-پیچ-به-چپ .png'/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .table-responsive {
+    overflow-x: auto;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    /* background-color: #f2f2f2; */
+  }
+</style> -->
 
 | Label | Persian | English | Image |
 |----------|----------|----------|----------|
