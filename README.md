@@ -49,28 +49,29 @@ class names:
 | avalin-pich-be-chap | اولین پیچ به چپ | first curve to the left | <img width="30%" src='./files/اولین-پیچ-به-چپ .png'/>|
 | avalin-pich-be-rast | اولین پیچ به راست | first curve to the right | <img width="30%" src='./files/اولین-پیچ-به-راست.png'/> |
 | dast-andaz | دست انداز | bump | <img width="30%" src='./files/دست-انداز.png'/> |
-| dor-bargardan | دور برگردان | u turn | <img width="30%" src='./files/'/> |
-| dor-zadan-mamnoe | دور زدن ممنوع | u turn prohebited | <img width="30%" src='./files/'/> |
-| dorbine-sabte-takhalofat | دوربین ثبت تخلفات | speed camera | <img width="30%" src='./files/'/> |
-| faghat-obor-az-chap-mojaz | فقط عبور از چپ مجاز | compulsory keep left | <img width="30%" src='./files/'/> |
-| faghat-obor-az-rast-mojaz | فقط عبور از راست مچاز | compulsory keep right | <img width="30%" src='./files/'/> |
-| gardesh-be-rast-mamnoe | گردش به راست ممنوع | right turn prohebited | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-100 | حداکثر سرعت مجاز 100 | speed limit 100 | <img width="30%" src='./files/حداکثر سرعت 100.png'/> |
-| hadeaksar-sorat-mojaz-110 | حداکثر سرعت مجاز 110 | speed limit 110 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-40 | حداکثر سرعت مجاز 40 | speed limit 40 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-50 | حداکثر سرعت مجاز 50 | speed limit 50 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-60 | حداکثر سرعت مجاز 60 | speed limit 60 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-80 | حداکثر سرعت مجاز 80 | speed limit 80 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-85 | حداکثر سرعت مجاز 85 | speed limit 85 | <img width="30%" src='./files/'/> |
-| hadeaksar-sorat-mojaz-95 | حداکثر سرعت مجاز 95 | speed limit 95 | <img width="30%" src='./files/حداکثر سرعت 95.jpg'/> |
-| hedayat-be-chap | هدایت به چپ | guide to left | <img width="30%" src='./files/'/> |
-| hedayat-be-rast | هدایت به راست | guide to right | <img width="30%" src='./files/'/> |
-| istadan-mamnoe | ایستادن ممنوع | no stopping or standing | <img width="30%" src='./files/'/> |
-| khatar | خطر | danger | <img width="30%" src='./files/'/> |
-| khatare-rizeshe-sang | خطر ریزش سنگ | falling rocks | <img width="30%" src='./files/'/> |
-| obor-az-har-do-samt-mojaz | عبور از هر دو سمت مجاز | either side | <img width="30%" src='./files/'/> |
-| obour-haywanate-ahli | عبور حیوانات اهلی | possibility of cattle on road | <img width="30%" src='./files/'/> |
-| parking | پارکینگ | parking | <img width="30%" src='./files/'/> |
+| dor-bargardan | دور برگردان | u turn | <img width="30%" src='./files/دوربرگردان.png'/> |
+| dor-zadan-mamnoe | دور زدن ممنوع | u turn prohebited | <img width="30%" src='./files/دور زدن ممنوع.png'/> |
+| dorbine-sabte-takhalofat | دوربین ثبت تخلفات | speed camera | <img width="30%" src='./files/speed camera.png'/> |
+| faghat-obor-az-chap-mojaz | فقط عبور از چپ مجاز | compulsory keep left | <img width="30%" src='./files/عبور-از-سمت-چپ-مجاز.png'/> |
+| faghat-obor-az-rast-mojaz | فقط عبور از راست مجاز | compulsory keep right | <img width="30%" src='./files/عبور-از-سمت-راست-مجاز.png'/> |
+| gardesh-be-rast-mamnoe | گردش به راست ممنوع | right turn prohebited | <img width="30%" src='./files/گردش-به-راست-ممنوع.png'/> |
+| gardesh-be-rast-mamnoe | گردش به چپ ممنوع | right turn prohebited | <img width="30%" src='./files/گردش-به-چپ-ممنوع.png'/> |
+| hadeaksar-sorat-mojaz-100 | حداکثر سرعت مجاز 100 | speed limit 100 | <img width="30%" src='./files/speed limit 100.jpg'/> |
+| hadeaksar-sorat-mojaz-110 | حداکثر سرعت مجاز 110 | speed limit 110 | <img width="30%" src='./files/speed limit 110.png'/> |
+| hadeaksar-sorat-mojaz-40 | حداکثر سرعت مجاز 40 | speed limit 40 | <img width="30%" src='./files/speed limit 40.png'/> |
+| hadeaksar-sorat-mojaz-50 | حداکثر سرعت مجاز 50 | speed limit 50 | <img width="30%" src='./files/speed limit 50.png'/> |
+| hadeaksar-sorat-mojaz-60 | حداکثر سرعت مجاز 60 | speed limit 60 | <img width="30%" src='./files/speed limit 60.png'/> |
+| hadeaksar-sorat-mojaz-80 | حداکثر سرعت مجاز 80 | speed limit 80 | <img width="30%" src='./files/speed limit 80.jpg'/> |
+| hadeaksar-sorat-mojaz-85 | حداکثر سرعت مجاز 85 | speed limit 85 | <img width="30%" src='./files/speed limit 85.png'/> |
+| hadeaksar-sorat-mojaz-95 | حداکثر سرعت مجاز 95 | speed limit 95 | <img width="30%" src='./files/speed limit 95.png'/> |
+| hedayat-be-chap | هدایت به چپ | guide to left | <img width="30%" src='./files/جهت نما به چپ.png'/> |
+| hedayat-be-rast | هدایت به راست | guide to right | <img width="30%" src='./files/جهت نما به راست.png'/> |
+| istadan-mamnoe | ایستادن ممنوع | no stopping or standing | <img width="30%" src='./files/ایستادن-ممنوع.png'/> |
+| khatar | خطر | danger | <img width="30%" src='./files/خطر.png'/> |
+| khatare-rizeshe-sang | خطر ریزش سنگ | falling rocks | <img width="30%" src='./files/ریزش-سنگ.png'/> |
+| obor-az-har-do-samt-mojaz | عبور از هر دو سمت مجاز | either side | <img width="30%" src='./files/عبور-از-هر-دو-سمت-مجاز.jpg'/> |
+| obour-haywanate-ahli | عبور حیوانات اهلی | possibility of cattle on road | <img width="30%" src='./files/عبور-حیوانات-اهلی.png'/> |
+| parking | پارکینگ | parking | <img width="30%" src='./files/پارکینگ.jpg'/> |
 | pich-be-chap | پیچ به چپ | left turn | <img width="30%" src='./files/پیچ-به-چپ.png'/> |
 | pich-be-rast | پیچ به راست | right turn | <img width="30%" src='./files/پیچ-به-راست.png'/> |
 | rayate-haghe-taghadom | رعایت حق تقدم | give way | <img width="30%" src='./files/رعایت-حق-تقدم.png'/> |
