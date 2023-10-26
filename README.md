@@ -123,7 +123,9 @@ class names:
 | voroud-mamenoe | ورود ممنوع | no entry | <img width="30%" src='./files/ورود-ممنوع.png'/> |
 
 
-# Instruciton:
+# How to use it:
+
+## Method 1:
 
 1- virtual environment setup (windows):
 
@@ -166,3 +168,13 @@ Notice that you should change the train and validation directory in ```data_cust
 ```
     yolo task=detect mode=predict model=yolov8m_custom.pt show=False conf=0.4 source=val/images/
 ```
+
+## Method 2:
+
+Open the notebook in colab:
+
+https://colab.research.google.com/github/barzansaeedpour/Traffic-sign-detection-yolov8/tree/main/TSD_YOLOv8.ipynb
+
+
+
+
