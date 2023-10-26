@@ -173,7 +173,7 @@ Notice that you should change the train and validation directory in ```data_cust
 
 Open the notebook in colab:
 
-https://colab.research.google.com/github/barzansaeedpour/Traffic-sign-detection-yolov8/tree/main/TSD_YOLOv8.ipynb
+https://colab.research.google.com/github/barzansaeedpour/Traffic-sign-detection-yolov8/blob/main/TSD_YOLOv8.ipynb
 
 
 
